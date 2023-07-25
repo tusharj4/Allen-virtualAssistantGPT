@@ -1,0 +1,18 @@
+--- !tapi-tbd
+tbd-version:     4
+targets:         [ arm64-macos ]
+flags:           [ not_app_extension_safe ]
+install-name:    '@rpath/speech_to_text_macos.framework/Versions/A/speech_to_text_macos'
+swift-abi-version: 7
+exports:
+  - targets:         [ arm64-macos ]
+    symbols:         [ '_$s20speech_to_text_macos23SpeechToTextMacosPluginC6handle_6resultySo17FlutterMethodCallC_yypSgctF', 
+                       '_$s20speech_to_text_macos23SpeechToTextMacosPluginC6handle_6resultySo17FlutterMethodCallC_yypSgctFTq', 
+                       '_$s20speech_to_text_macos23SpeechToTextMacosPluginC8register4withySo07FlutterI9Registrar_p_tFZ', 
+                       '_$s20speech_to_text_macos23SpeechToTextMacosPluginCACycfC', 
+                       '_$s20speech_to_text_macos23SpeechToTextMacosPluginCACycfc', 
+                       '_$s20speech_to_text_macos23SpeechToTextMacosPluginCMa', '_$s20speech_to_text_macos23SpeechToTextMacosPluginCMn', 
+                       '_$s20speech_to_text_macos23SpeechToTextMacosPluginCN', '_$s20speech_to_text_macos23SpeechToTextMacosPluginCfD', 
+                       _speech_to_text_macosVersionNumber, _speech_to_text_macosVersionString ]
+    objc-classes:    [ PodsDummy_speech_to_text_macos, _TtC20speech_to_text_macos23SpeechToTextMacosPlugin ]
+...

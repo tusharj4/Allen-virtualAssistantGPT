@@ -1,0 +1,13 @@
+com.rivaan.allen.allen.app-jetified-window-1.0.0-beta04-0 /Users/sup_geekp4/.gradle/caches/transforms-3/25cee5f028ac2a6b79fd6278ff5b59e2/transformed/jetified-window-1.0.0-beta04/res
+com.rivaan.allen.allen.app-jetified-annotation-experimental-1.1.0-1 /Users/sup_geekp4/.gradle/caches/transforms-3/6c0c163cc77ae6c91f9f7dfcd179c29c/transformed/jetified-annotation-experimental-1.1.0/res
+com.rivaan.allen.allen.app-core-1.6.0-2 /Users/sup_geekp4/.gradle/caches/transforms-3/7e9df2ac2213a6bd3cef0f2f27870d79/transformed/core-1.6.0/res
+com.rivaan.allen.allen.app-jetified-window-java-1.0.0-beta04-3 /Users/sup_geekp4/.gradle/caches/transforms-3/ae81e06d24c799147c26814497a2a305/transformed/jetified-window-java-1.0.0-beta04/res
+com.rivaan.allen.allen.app-debug-4 /Users/sup_geekp4/Desktop/allen/android/app/src/debug/res
+com.rivaan.allen.allen.app-main-5 /Users/sup_geekp4/Desktop/allen/android/app/src/main/res
+com.rivaan.allen.allen.app-pngs-6 /Users/sup_geekp4/Desktop/allen/build/app/generated/res/pngs/debug
+com.rivaan.allen.allen.app-resValues-7 /Users/sup_geekp4/Desktop/allen/build/app/generated/res/resValues/debug
+com.rivaan.allen.allen.app-rs-8 /Users/sup_geekp4/Desktop/allen/build/app/generated/res/rs/debug
+com.rivaan.allen.allen.app-mergeDebugResources-9 /Users/sup_geekp4/Desktop/allen/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.rivaan.allen.allen.app-mergeDebugResources-10 /Users/sup_geekp4/Desktop/allen/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.rivaan.allen.allen.app-merged_res-11 /Users/sup_geekp4/Desktop/allen/build/app/intermediates/merged_res/debug
+com.rivaan.allen.allen.app-packaged_res-12 /Users/sup_geekp4/Desktop/allen/build/speech_to_text/intermediates/packaged_res/debug
